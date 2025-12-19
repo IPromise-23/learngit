@@ -6,3 +6,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Add merage.
+尝试操作GUI工具--SourceTree.
